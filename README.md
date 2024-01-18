@@ -2,7 +2,7 @@
 
 # KELOMPOK 3
 
-<img width="422" alt="ss2" src="https://github.com/ilham280902/Kelompok3/assets/125546054/192139c2-05d5-4c43-9177-c488036f2237">
+<img alt="ss2" src="https://github.com/ilham280902/Kelompok3/assets/125546054/192139c2-05d5-4c43-9177-c488036f2237">
 
 # 🌐Tentang Project:
 
