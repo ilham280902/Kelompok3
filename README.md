@@ -10,10 +10,10 @@ Nama project ini adalah Productum, sebuah platform yang bertujuan untuk membantu
 
 # 👨🏻‍💻Anggota Kelompok:
 
-5210311106 Mohamad Ilham Septianto (https://github.com/ilham280902/Kelompok3)
-5210311109 Rizky Kurniawan (https://github.com/rizkykurni210311109)
-5210311129 Christo Wendly Haron De Fretes (https://github.com/christo-def)
-5210311135 Naufal Ammar Dzakiy (https://github.com/NaufalAmmar4)
+1. 5210311106 Mohamad Ilham Septianto (https://github.com/ilham280902/Kelompok3)
+2. 5210311109 Rizky Kurniawan (https://github.com/rizkykurni210311109)
+3. 5210311129 Christo Wendly Haron De Fretes (https://github.com/christo-def)
+4. 5210311135 Naufal Ammar Dzakiy (https://github.com/NaufalAmmar4)
 
 # ⚙️Teknologi yang dipakai di Website:
 
